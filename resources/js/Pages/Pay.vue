@@ -42,7 +42,7 @@ export default {
     setup(props){
 
         const state = reactive({
-            phone: '0895633156874',
+            phone: '',
         })
 
         const handleClickPayWithOVO = () => {
