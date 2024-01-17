@@ -1,1 +1,161 @@
-[{"status":"PENDING","channel":"SHOPEEPAY","id":"de354a8d-2d65-4df4-b0a0-56a28322da1a","phone":"081231231231","product":{"name":"Test 10k","price":10000,"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur porta lectus ut enim mollis blandit. Quisque posuere nibh vitae dictum eleifend. Integer justo magna, molestie vitae volutpat quis, convallis sit amet ex. Fusce molestie neque in suscipit pellentesque. Nam molestie enim eget nisi efficitur, in ultricies orci interdum. Praesent quam diam, congue non consectetur non, congue nec tellus. Vivamus non hendrerit risus. Mauris ac dapibus lacus, non ultricies magna. In iaculis nibh odio, nec ultrices lectus facilisis et. Integer consequat diam eu magna commodo, consectetur placerat lacus tristique. Morbi mollis sem ac vehicula aliquam. Suspendisse tristique dapibus arcu, sit amet rhoncus quam dignissim quis. Vivamus feugiat elit vitae ante commodo fringilla. Etiam ac nulla sollicitudin, imperdiet urna sed, facilisis eros."},"response":{"rc":"00","rd":"Sukses","ref_num":"so5f399e81-8fcb-4b9d-a1a0-a30c8c88d253","channel":"SPAY","requested_at":"2023-06-09 09:56:58","amount":10000,"id":"081231231231","additional_data":{"expired_at":"2023-06-09 10:46:00","url_web":"https:\/\/wsa.uat.wallet.airpay.co.id\/universal-link\/wallet\/pay?deep_and_deferred=1&token=dFhkbmR1bTBIamhWxAuaPEqjqKKG0LJfU3nllGlcDsEpJkr--jATG8TVgHE8oZMjydR4Sz6A7Ji7KQ9SIqT4_A","url_app":"shopeeid:\/\/main?apprl=%2Frn%2FTRANSFER_PAGE%3Fnavigate_url%3Dhttps%253A%252F%252Fwsa.uat.wallet.airpay.co.id%252Fwallet%252Fpay%253Ftoken%253DdFhkbmR1bTBIamhWxAuaPEqjqKKG0LJfU3nllGlcDsEpJkr--jATG8TVgHE8oZMjydR4Sz6A7Ji7KQ9SIqT4_A","display_name":"-"}}},{"status":"PENDING","channel":"DANA","id":"89baf7ad-1103-49e3-960c-85f4c5257cf7","phone":"081231231231","product":{"name":"Test 10k","price":10000,"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur porta lectus ut enim mollis blandit. Quisque posuere nibh vitae dictum eleifend. Integer justo magna, molestie vitae volutpat quis, convallis sit amet ex. Fusce molestie neque in suscipit pellentesque. Nam molestie enim eget nisi efficitur, in ultricies orci interdum. Praesent quam diam, congue non consectetur non, congue nec tellus. Vivamus non hendrerit risus. Mauris ac dapibus lacus, non ultricies magna. In iaculis nibh odio, nec ultrices lectus facilisis et. Integer consequat diam eu magna commodo, consectetur placerat lacus tristique. Morbi mollis sem ac vehicula aliquam. Suspendisse tristique dapibus arcu, sit amet rhoncus quam dignissim quis. Vivamus feugiat elit vitae ante commodo fringilla. Etiam ac nulla sollicitudin, imperdiet urna sed, facilisis eros."},"response":{"rc":"00","rd":"Sukses","ref_num":"dne06df8f9-d79c-4101-80c1-679163e032b9","channel":"DANA","requested_at":"2023-06-09 09:57:20","amount":10000,"id":"081231231231","additional_data":{"ref":"f1975164-d430-4119-9ae4-e982c5b7b210","expired_at":"2023-06-09 12:57:20","payment_code":"00000000001686279440","url_web":"https:\/\/m.sandbox.dana.id\/m\/portal\/cashier\/checkout?bizNo=20230609111212800110166170801092455&timestamp=1686279440727&originSourcePlatform=IPG&mid=216620040014017155788&sign=MQl3WtiuxqbSIWvMRJywXccxTdLROVTM0nCw71TmXxfeCcQvnmz8pcDLWH7pkL0fljib7%2FbUOHtH9ZuSKmkvqxQJ2q1uJf7Isc8qDvxvtc%2BpRfjSwSsmInuzCLKOYKDi9lJt7DfT4e7QZMp47REx9DM%2BOXQ9cQpCXvJa2j8DJTyO%2FKFeXHPMqKTss%2FDnmoihmA5l1uzDxIQCDuoH78xrHxqhq8zrR754bIWGZZMMGLP%2F9J1bFO6CJSY266rA3lWQhHGaBvojNuTkoT%2BlkY4p2OBO19haHHS7Jf%2FEq7lGSlQIfuYzOwooqPld9JHdyGBnikCGpRPM52NABczH7kSBIw%3D%3D&forceToH5=false","display_name":"WINPAY"}}},{"status":"PENDING","channel":"DANA","id":"72b60a76-8800-48df-9a65-b3fc44e46d41","phone":"081231231231","product":{"name":"Tumblr","price":5000,"description":"Sed ac lacinia nulla. Morbi ultricies cursus enim eu tincidunt. Duis nunc ipsum, fermentum id elit convallis, tempor volutpat sem. Nullam rhoncus pharetra sapien id tristique. Sed et quam mauris. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pharetra finibus nulla eu congue. Donec eget elit arcu."},"response":{"rc":"00","rd":"Sukses","ref_num":"dn771385c6-9fc3-4de2-af70-93310b53ee8b","channel":"DANA","requested_at":"2023-06-09 10:17:32","amount":5000,"id":"081231231231","additional_data":{"ref":"54b215a7-9208-4c64-b0d6-b406f4a686c8","expired_at":"2023-06-09 13:17:27","payment_code":"00000000001686280649","url_web":"https:\/\/m.sandbox.dana.id\/m\/portal\/cashier\/checkout?bizNo=20230609111212800110166841501089816&timestamp=1686280652419&originSourcePlatform=IPG&mid=216620040014017155788&sign=PuyPFEZA9FBQ87YNppiNQkvTfHw4g1t%2Bb%2FJPjb8quGy8NmK%2Blr%2FAb0oYnTJi2EUZGbtRHgp63SYSGLMg2aex5GB6BbRyiV2wKATMDfWp19eDtR0bX126AvxBeM2wKRgytprXPyN8sjd5uhamVWCvW%2Fn8FklqXQpuAFhj4Ntl6ytNfW0U%2BeUuChkDfKXuYMqZ%2BarsLSpQp92qgdOVmhxDn4mBQN3M%2F9YAFjEu8i5jpBJpXGLznkweY9DAM1QlRYd2i9pEfTlOgrKbRpC1zmNmkDALQ2xeApRbwvwictgPL3hLQQxxD1NBfSvktBiq8g1rWobAyCT0%2BawePWOgy5gn%2BQ%3D%3D&forceToH5=false","display_name":"WINPAY"}}}]
+[
+    {
+        "status": "PENDING",
+        "channel": "SHOPEEPAY",
+        "id": "de354a8d-2d65-4df4-b0a0-56a28322da1a",
+        "phone": "081231231231",
+        "product": {
+            "name": "Test 10k",
+            "price": 10000,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur porta lectus ut enim mollis blandit. Quisque posuere nibh vitae dictum eleifend. Integer justo magna, molestie vitae volutpat quis, convallis sit amet ex. Fusce molestie neque in suscipit pellentesque. Nam molestie enim eget nisi efficitur, in ultricies orci interdum. Praesent quam diam, congue non consectetur non, congue nec tellus. Vivamus non hendrerit risus. Mauris ac dapibus lacus, non ultricies magna. In iaculis nibh odio, nec ultrices lectus facilisis et. Integer consequat diam eu magna commodo, consectetur placerat lacus tristique. Morbi mollis sem ac vehicula aliquam. Suspendisse tristique dapibus arcu, sit amet rhoncus quam dignissim quis. Vivamus feugiat elit vitae ante commodo fringilla. Etiam ac nulla sollicitudin, imperdiet urna sed, facilisis eros."
+        },
+        "response": {
+            "rc": "00",
+            "rd": "Sukses",
+            "ref_num": "so5f399e81-8fcb-4b9d-a1a0-a30c8c88d253",
+            "channel": "SPAY",
+            "requested_at": "2023-06-09 09:56:58",
+            "amount": 10000,
+            "id": "081231231231",
+            "additional_data": {
+                "expired_at": "2023-06-09 10:46:00",
+                "url_web": "https:\/\/wsa.uat.wallet.airpay.co.id\/universal-link\/wallet\/pay?deep_and_deferred=1&token=dFhkbmR1bTBIamhWxAuaPEqjqKKG0LJfU3nllGlcDsEpJkr--jATG8TVgHE8oZMjydR4Sz6A7Ji7KQ9SIqT4_A",
+                "url_app": "shopeeid:\/\/main?apprl=%2Frn%2FTRANSFER_PAGE%3Fnavigate_url%3Dhttps%253A%252F%252Fwsa.uat.wallet.airpay.co.id%252Fwallet%252Fpay%253Ftoken%253DdFhkbmR1bTBIamhWxAuaPEqjqKKG0LJfU3nllGlcDsEpJkr--jATG8TVgHE8oZMjydR4Sz6A7Ji7KQ9SIqT4_A",
+                "display_name": "-"
+            }
+        }
+    },
+    {
+        "status": "PENDING",
+        "channel": "DANA",
+        "id": "89baf7ad-1103-49e3-960c-85f4c5257cf7",
+        "phone": "081231231231",
+        "product": {
+            "name": "Test 10k",
+            "price": 10000,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur porta lectus ut enim mollis blandit. Quisque posuere nibh vitae dictum eleifend. Integer justo magna, molestie vitae volutpat quis, convallis sit amet ex. Fusce molestie neque in suscipit pellentesque. Nam molestie enim eget nisi efficitur, in ultricies orci interdum. Praesent quam diam, congue non consectetur non, congue nec tellus. Vivamus non hendrerit risus. Mauris ac dapibus lacus, non ultricies magna. In iaculis nibh odio, nec ultrices lectus facilisis et. Integer consequat diam eu magna commodo, consectetur placerat lacus tristique. Morbi mollis sem ac vehicula aliquam. Suspendisse tristique dapibus arcu, sit amet rhoncus quam dignissim quis. Vivamus feugiat elit vitae ante commodo fringilla. Etiam ac nulla sollicitudin, imperdiet urna sed, facilisis eros."
+        },
+        "response": {
+            "rc": "00",
+            "rd": "Sukses",
+            "ref_num": "dne06df8f9-d79c-4101-80c1-679163e032b9",
+            "channel": "DANA",
+            "requested_at": "2023-06-09 09:57:20",
+            "amount": 10000,
+            "id": "081231231231",
+            "additional_data": {
+                "ref": "f1975164-d430-4119-9ae4-e982c5b7b210",
+                "expired_at": "2023-06-09 12:57:20",
+                "payment_code": "00000000001686279440",
+                "url_web": "https:\/\/m.sandbox.dana.id\/m\/portal\/cashier\/checkout?bizNo=20230609111212800110166170801092455&timestamp=1686279440727&originSourcePlatform=IPG&mid=216620040014017155788&sign=MQl3WtiuxqbSIWvMRJywXccxTdLROVTM0nCw71TmXxfeCcQvnmz8pcDLWH7pkL0fljib7%2FbUOHtH9ZuSKmkvqxQJ2q1uJf7Isc8qDvxvtc%2BpRfjSwSsmInuzCLKOYKDi9lJt7DfT4e7QZMp47REx9DM%2BOXQ9cQpCXvJa2j8DJTyO%2FKFeXHPMqKTss%2FDnmoihmA5l1uzDxIQCDuoH78xrHxqhq8zrR754bIWGZZMMGLP%2F9J1bFO6CJSY266rA3lWQhHGaBvojNuTkoT%2BlkY4p2OBO19haHHS7Jf%2FEq7lGSlQIfuYzOwooqPld9JHdyGBnikCGpRPM52NABczH7kSBIw%3D%3D&forceToH5=false",
+                "display_name": "WINPAY"
+            }
+        }
+    },
+    {
+        "status": "PENDING",
+        "channel": "DANA",
+        "id": "72b60a76-8800-48df-9a65-b3fc44e46d41",
+        "phone": "081231231231",
+        "product": {
+            "name": "Tumblr",
+            "price": 5000,
+            "description": "Sed ac lacinia nulla. Morbi ultricies cursus enim eu tincidunt. Duis nunc ipsum, fermentum id elit convallis, tempor volutpat sem. Nullam rhoncus pharetra sapien id tristique. Sed et quam mauris. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce pharetra finibus nulla eu congue. Donec eget elit arcu."
+        },
+        "response": {
+            "rc": "00",
+            "rd": "Sukses",
+            "ref_num": "dn771385c6-9fc3-4de2-af70-93310b53ee8b",
+            "channel": "DANA",
+            "requested_at": "2023-06-09 10:17:32",
+            "amount": 5000,
+            "id": "081231231231",
+            "additional_data": {
+                "ref": "54b215a7-9208-4c64-b0d6-b406f4a686c8",
+                "expired_at": "2023-06-09 13:17:27",
+                "payment_code": "00000000001686280649",
+                "url_web": "https:\/\/m.sandbox.dana.id\/m\/portal\/cashier\/checkout?bizNo=20230609111212800110166841501089816&timestamp=1686280652419&originSourcePlatform=IPG&mid=216620040014017155788&sign=PuyPFEZA9FBQ87YNppiNQkvTfHw4g1t%2Bb%2FJPjb8quGy8NmK%2Blr%2FAb0oYnTJi2EUZGbtRHgp63SYSGLMg2aex5GB6BbRyiV2wKATMDfWp19eDtR0bX126AvxBeM2wKRgytprXPyN8sjd5uhamVWCvW%2Fn8FklqXQpuAFhj4Ntl6ytNfW0U%2BeUuChkDfKXuYMqZ%2BarsLSpQp92qgdOVmhxDn4mBQN3M%2F9YAFjEu8i5jpBJpXGLznkweY9DAM1QlRYd2i9pEfTlOgrKbRpC1zmNmkDALQ2xeApRbwvwictgPL3hLQQxxD1NBfSvktBiq8g1rWobAyCT0%2BawePWOgy5gn%2BQ%3D%3D&forceToH5=false",
+                "display_name": "WINPAY"
+            }
+        }
+    },
+    {
+        "status": "CANCEL",
+        "channel": "DANA",
+        "id": "fe193ff0-d4bf-45ec-a668-ecbdd4b8d534",
+        "phone": "081231231231",
+        "product": {
+            "name": "Test 10k",
+            "price": 10000,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur porta lectus ut enim mollis blandit. Quisque posuere nibh vitae dictum eleifend. Integer justo magna, molestie vitae volutpat quis, convallis sit amet ex. Fusce molestie neque in suscipit pellentesque. Nam molestie enim eget nisi efficitur, in ultricies orci interdum. Praesent quam diam, congue non consectetur non, congue nec tellus. Vivamus non hendrerit risus. Mauris ac dapibus lacus, non ultricies magna. In iaculis nibh odio, nec ultrices lectus facilisis et. Integer consequat diam eu magna commodo, consectetur placerat lacus tristique. Morbi mollis sem ac vehicula aliquam. Suspendisse tristique dapibus arcu, sit amet rhoncus quam dignissim quis. Vivamus feugiat elit vitae ante commodo fringilla. Etiam ac nulla sollicitudin, imperdiet urna sed, facilisis eros."
+        },
+        "response": {
+            "rc": "00",
+            "rd": "Sukses",
+            "ref_num": "dn67b4162c-dc28-46a1-9356-39a37b10bb5c",
+            "channel": "DANA",
+            "requested_at": "2024-01-17 09:02:27",
+            "amount": 10000,
+            "id": "081231231231",
+            "additional_data": {
+                "ref": "39c16b71-3aca-4d8c-bc00-47bfd743f967",
+                "expired_at": "2024-01-17 12:02:26",
+                "payment_code": "00000000001705456947",
+                "url_web": "https:\/\/kr9bp.app.link\/pay?bizNo=20240117111212800110166587601417584&timestamp=1705456947856&originSourcePlatform=IPG&mid=216620040014017155788&sign=&forceToH5=false",
+                "display_name": "KEMENAG RI - WINPAY"
+            }
+        }
+    },
+    {
+        "status": "PENDING",
+        "channel": "SHOPEEPAY",
+        "id": "f64b554f-4e35-4b0c-80ec-88cb4e10f15d",
+        "phone": "081231231231",
+        "product": {
+            "name": "Case 3",
+            "price": 1123,
+            "description": "Aliquam purus enim, gravida sit amet accumsan sed, elementum et sem. Pellentesque in porttitor leo. Fusce urna dui, condimentum eu feugiat vitae, rhoncus et dolor. Praesent auctor metus euismod magna pellentesque volutpat. Duis et convallis sem, sed euismod arcu. Nunc sit amet leo a lacus tempus elementum vel sit amet sapien. Aliquam erat volutpat. Sed augue turpis, aliquam at cursus non, interdum non diam."
+        },
+        "response": {
+            "rc": "00",
+            "rd": "Sukses",
+            "ref_num": "socf1e1182-903f-41d7-804c-198d1a1ef8b0",
+            "channel": "SPAY",
+            "requested_at": "2024-01-17 09:17:22",
+            "amount": 1123,
+            "id": "081231231231",
+            "additional_data": {
+                "expired_at": "2024-01-17 10:07:00",
+                "url_web": "https:\/\/pay.airpay.co.id\/h5pay\/pay?type=start&medium_index=Um80ZWF4Yk9xZmROBMUdDO46EdU5Xo1bQVOsjoPabkN88oScURAN6yOBi2c40UEMLNWklUX2HQMgXgSiZ1rLQA&order_key=5x-va5pq3lb0qNedtMLHTc-33OPY5D1ie73K59rmUvd8ot3Hdf3_13FC1_TBXr28UAx2tyc48U3_mQ&source=web&token=Um80ZWF4Yk9xZmROBMUdDO46EdU5Xo1bQVOsjoPabkN88oScURAN6yOBi2c40UEMLNWklUX2HQMgXgSiZ1rLQA",
+                "url_app": "shopeeid:\/\/main?apprl=%2Frn%2FTRANSFER_PAGE%3Fnavigate_url%3Dhttps%253A%252F%252Fwsa.wallet.airpay.co.id%252Fwallet%252Fpay%253Fmedium_index%253DUm80ZWF4Yk9xZmROBMUdDO46EdU5Xo1bQVOsjoPabkN88oScURAN6yOBi2c40UEMLNWklUX2HQMgXgSiZ1rLQA%2526order_key%253D5x-va5pq3lb0qNedtMLHTc-33OPY5D1ie73K59rmUvd8ot3Hdf3_13FC1_TBXr28UAx2tyc48U3_mQ%2526source%253Dqr%2526token%253DUm80ZWF4Yk9xZmROBMUdDO46EdU5Xo1bQVOsjoPabkN88oScURAN6yOBi2c40UEMLNWklUX2HQMgXgSiZ1rLQA",
+                "display_name": "-"
+            }
+        }
+    },
+    {
+        "status": "PAID",
+        "channel": "SHOPEEPAY",
+        "id": "8a891d5c-715a-4eeb-aeb0-c1bc5270b8ae",
+        "phone": "081231231231",
+        "product": {
+            "name": "Case 3",
+            "price": 1123,
+            "description": "Aliquam purus enim, gravida sit amet accumsan sed, elementum et sem. Pellentesque in porttitor leo. Fusce urna dui, condimentum eu feugiat vitae, rhoncus et dolor. Praesent auctor metus euismod magna pellentesque volutpat. Duis et convallis sem, sed euismod arcu. Nunc sit amet leo a lacus tempus elementum vel sit amet sapien. Aliquam erat volutpat. Sed augue turpis, aliquam at cursus non, interdum non diam."
+        },
+        "response": {
+            "rc": "00",
+            "rd": "Sukses",
+            "ref_num": "so54c34cc5-2a4d-4575-8149-569c2c76e381",
+            "channel": "SPAY",
+            "requested_at": "2024-01-17 09:49:40",
+            "amount": 1123,
+            "id": "081231231231",
+            "additional_data": {
+                "expired_at": "2024-01-17 10:39:00",
+                "url_web": "https:\/\/pay.airpay.co.id\/h5pay\/pay?type=start&medium_index=Um80ZWF4Yk9xZmROBJEfAu08S485DoAOE1Osg9rabhso8oScUx8P4CbX3zBsjENZqmb9T2Xmv0EJ3PphkwRlQQ&order_key=h2IIeXy6BObG-Y_DXvx_Asb2VMWOoFBoCfxMUtSu0F23XbLZGyE3YzmR6kpo0SkiSFzk1NweoZ-V7Q&source=web&token=Um80ZWF4Yk9xZmROBJEfAu08S485DoAOE1Osg9rabhso8oScUx8P4CbX3zBsjENZqmb9T2Xmv0EJ3PphkwRlQQ",
+                "url_app": "shopeeid:\/\/main?apprl=%2Frn%2FTRANSFER_PAGE%3Fnavigate_url%3Dhttps%253A%252F%252Fwsa.wallet.airpay.co.id%252Fwallet%252Fpay%253Fmedium_index%253DUm80ZWF4Yk9xZmROBJEfAu08S485DoAOE1Osg9rabhso8oScUx8P4CbX3zBsjENZqmb9T2Xmv0EJ3PphkwRlQQ%2526order_key%253Dh2IIeXy6BObG-Y_DXvx_Asb2VMWOoFBoCfxMUtSu0F23XbLZGyE3YzmR6kpo0SkiSFzk1NweoZ-V7Q%2526source%253Dqr%2526token%253DUm80ZWF4Yk9xZmROBJEfAu08S485DoAOE1Osg9rabhso8oScUx8P4CbX3zBsjENZqmb9T2Xmv0EJ3PphkwRlQQ",
+                "display_name": "-"
+            }
+        }
+    }
+]
