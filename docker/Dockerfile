@@ -25,4 +25,4 @@ RUN php artisan optimize:clear
 EXPOSE 9501
 
 # CMD ["/usr/bin/supervisord", "-c", "/etc/supervisord.conf"]
-CMD ["php", "artisan", "serve", "--host=0.0.0.0", "--port=80", "--workers=auto", "--task-workers=auto"]
+CMD ["php", "artisan", "serve", "--host=0.0.0.0", "--port=80"]
