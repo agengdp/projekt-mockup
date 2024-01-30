@@ -12,7 +12,7 @@
           class="rounded p-2 shopee flex items-center justify-center"
           @click="handleClickPayWithShopeepay"
         >
-          <img src="@/images/Shopeepay_Logo_White_Horizontal.png" class="h-6" />
+          <img src="@/images/ShopeePay-Horizontal2_W.png" class="h-6" />
         </Link>
         <Link
           class="bg-indigo-600 rounded p-2 flex items-center justify-center"
@@ -74,7 +74,7 @@ export default {
       );
     };
     const handleClickPayWithDana = () => {
-        Inertia.post(
+      Inertia.post(
         route("checkout.pay.dana", props.slug),
         {
           phone: state.phone,
@@ -84,7 +84,7 @@ export default {
           preserveState: true,
         }
       );
-    }
+    };
 
     const handleClickPayWithShopeepay = () => {
       Inertia.post(
@@ -118,7 +118,7 @@ export default {
       handleClickPayWithOVO,
       handleClickPayWithShopeepay,
       handleClickPayWithSpeedcash,
-      handleClickPayWithDana
+      handleClickPayWithDana,
     };
   },
 };
